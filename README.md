@@ -20,8 +20,8 @@ Below, you can find some of the projects I've worked on over the years.
 - [📂 Análise de Decisões Inteligentes ](https://github.com/bekogod/ADI) - Machine Learning using KNIME
 - [📂 Dados e Aprendizagem Automática ](https://github.com/bekogod/DAA) - Machine Learning Project using Python / Numpy / Panda
 - [📂 LI2](https://github.com/bekogod/LI2) - Board Game in C
-- [📂 LI2](https://github.com/bekogod/LI3) - Modularity, encapsulation, and dynamic structures project in C
-- [📂 LI2](https://github.com/bekogod/IntelArtific) - Searching Algorithms Project in Python
-- [📂 LI2](https://github.com/bekogod/CC) - Peer to Peer Service Project in Python
-- [📂 LI2](https://github.com/bekogod/DSS) - Vehicle Maintnence Project following OOP paradigms in Java
+- [📂 LI3](https://github.com/bekogod/LI3) - Modularity, encapsulation, and dynamic structures project in C
+- [📂 Inteligência Artificial](https://github.com/bekogod/IntelArtific) - Searching Algorithms Project in Python
+- [📂 Comunicações por Computador](https://github.com/bekogod/CC) - Peer to Peer Service Project in Python
+- [📂 Desenvolvimento de Sistemas de Software](https://github.com/bekogod/DSS) - Vehicle Maintnence Project following OOP paradigms in Java
 
