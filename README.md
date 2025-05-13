@@ -12,7 +12,7 @@ Below, you can find some of the projects I've worked on over the years.
 - [📂 Programação Orientada a Objectos](https://github.com/bekogod/POO) - Vintage Marketplace in Java
 - [📂 Engenharia e Serviços de Redes](https://github.com/bekogod/ESR) - Over the top Service in GO 
 - [📂 Computação Paralela](https://github.com/bekogod/cpar) - Bettering Code Performance using OpenMP and CUDA 
-- [📂 Engenharia e Serviços de Redes](https://github.com/bekogod/ESR) - Task Orchestrator in C
+- [📂 Sistemas Operativos](https://github.com/bekogod/SO24) - Task Orchestrator in C
 - [📂 Computação Gráfica](https://github.com/bekogod/CG) - Solar system in C++
 - [📂 Base de Dados](https://github.com/bekogod/BD) - SQL Project
 - [📂 Análise de Decisões Inteligentes ](https://github.com/bekogod/ADI) - Machine Learning using KNIME
